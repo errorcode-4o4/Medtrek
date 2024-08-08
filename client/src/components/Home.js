@@ -40,10 +40,10 @@ const Home = () => {
         Made By:{" "}
         <a
           style={{ color: "#0B8FAC" }}
-          href="https://github.com/Vermayugank"
+          href="https://github.com/errorcode-4o4"
           target="_blank"
         >
-          Yugank{" "}
+          Avinash & Avinash{" "}
         </a>
       </p>
     </div>
